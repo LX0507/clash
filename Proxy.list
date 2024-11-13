@@ -53,6 +53,9 @@ DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,htx-kol.com
 DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,translate-pa.googleapis.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,translate.google.com
+
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
