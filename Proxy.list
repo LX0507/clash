@@ -60,6 +60,16 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,ethash.unmineable.com
 DOMAIN-SUFFIX,unmineable.com
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,xelishash-asia.unmineable.com
+DOMAIN-SUFFIX,xelishash.unmineable.com
+DOMAIN-SUFFIX,kheavyhash-asia.unmineable.com
+DOMAIN-SUFFIX,scrypt-asia.unmineable.com
+
+
+
+
+
+
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
