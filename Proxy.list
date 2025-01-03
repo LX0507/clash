@@ -72,7 +72,8 @@ DOMAIN-SUFFIX,etchash-asia.unmineable.com
 DOMAIN-SUFFIX,pool.rplant.xyz
 DOMAIN-SUFFIX,wheretomine.io
 DOMAIN-SUFFIX,autolykos.unmineable.com
-
+DOMAIN-SUFFIX,autolykos-asia.unmineable.com
+DOMAIN-SUFFIX,ergo.ntminer.vip
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
