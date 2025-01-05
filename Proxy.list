@@ -74,6 +74,9 @@ DOMAIN-SUFFIX,wheretomine.io
 DOMAIN-SUFFIX,autolykos.unmineable.com
 DOMAIN-SUFFIX,autolykos-asia.unmineable.com
 DOMAIN-SUFFIX,ergo.ntminer.vip
+DOMAIN-SUFFIX,hiveon.net
+DOMAIN-SUFFIX,woolypooly.com
+
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
