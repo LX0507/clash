@@ -84,7 +84,7 @@ DOMAIN-SUFFIX,rvn.antpool.com
 DOMAIN-SUFFIX,aleo.antpool.com
 DOMAIN-SUFFIX,www.ravenminer.com
 DOMAIN-SUFFIX,rvn.2miners.com
-
+DOMAIN-SUFFIX,rvn.minerpool.pro
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
