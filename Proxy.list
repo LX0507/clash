@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,rvn.2miners.com
 DOMAIN-SUFFIX,rvn.minerpool.pro
 DOMAIN-SUFFIX,stratum.ravenminer.com
 DOMAIN-SUFFIX,asia.ravenminer.com
+DOMAIN-SUFFIX,keeflys.com
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
