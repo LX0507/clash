@@ -123,7 +123,7 @@ DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 DOMAIN-SUFFIX,keeflys.com
 DOMAIN-SUFFIX,smithery.ai
-DOMAIN-SUFFIX,editor.p5js.org/
+DOMAIN-SUFFIX,editor.p5js.org
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
