@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,ai.google.dev
 ​DOMAIN-SUFFIX,aistudio.google.com
+​DOMAIN-SUFFIX,chat.openai.com
 
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
