@@ -184,9 +184,9 @@ DOMAIN-SUFFIX,altrosky.nl
 DOMAIN-SUFFIX,leech.ie
 
 
-#docker
+# docker
 DOMAIN-SUFFIX,hub.docker.com
-
+DOMAIN-SUFFIX,docker.com
 
 # 小牛机场
 DOMAIN-SUFFIX,vns735p8.xyz
