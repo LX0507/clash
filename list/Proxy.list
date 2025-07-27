@@ -187,6 +187,8 @@ DOMAIN-SUFFIX,leech.ie
 # docker
 DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,docker.io
 
 # 小牛机场
 DOMAIN-SUFFIX,vns735p8.xyz
