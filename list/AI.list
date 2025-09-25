@@ -44,4 +44,6 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google/fx
+
 
